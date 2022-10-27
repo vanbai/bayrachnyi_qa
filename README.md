@@ -1,4 +1,4 @@
-# bayrachny_qa
+# bayrachnyi_qa
 
 #Тест-кейсы
 https://docs.google.com/spreadsheets/d/1LzSVAFHyNN2jslVC6vzf6cGlacA2f5UvvTeIlUHVXkA/edit
