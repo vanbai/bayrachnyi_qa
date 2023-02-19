@@ -9,6 +9,12 @@
 ## Пример тест-плана / Test plan example
 [В рамках обучения - View on Google.Docs](https://docs.google.com/document/d/1YAfWKDPOT57IOjsAyvedqjSp7BqSEbEc/edit?usp=sharing&ouid=115763484340960814060&rtpof=true&sd=true)
 
+## Пример таблицы принятия решений / Decision table example
+[В рамках обучения - View on Google.Docs](https://docs.google.com/spreadsheets/d/1HYg_dhkQLqEbvzY9hm3gjVL4SSZDNicjw0dYiZNmVkM/edit?usp=sharing)
+
+## Пример диаграммы состояний и переходов / S&T diagram example
+[В рамках обучения - View on Miro.com](https://miro.com/app/board/uXjVPNSQ4hs=/?share_link_id=61894744785)
+
 ## Пример выполнения тестового задания / Test assignment execution example
 [В рамках обучения - View on Google.Docs](https://docs.google.com/spreadsheets/d/16MvL9oaGCi9Qvr8JT4lmRF6md5-_8mYHhxHPrIZbn14/edit?usp=sharing)
 
