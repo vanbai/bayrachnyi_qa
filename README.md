@@ -20,3 +20,6 @@
 
 ## Выполнение реальных тестовых заданий / Test assignments executions
 [View on Google.Docs](https://drive.google.com/drive/folders/1iHpOUDR9VWl-j49YyJiHF07fp6K5o99B?usp=sharing)
+
+## Пример выполнения тестового задания по нагрузочному тестированию / Load test assignment execution example
+[View on Google.Docs](https://drive.google.com/drive/folders/1EMZ138M2lafS9Yliuj7tBoB2_B6S4g6P?usp=share_link)
